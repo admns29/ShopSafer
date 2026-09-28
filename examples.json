@@ -1,0 +1,29 @@
+{
+  "fake_pendrive": {
+    "name": "Pendrive USB 3.0 1TB High Speed Flash Drive",
+    "price": 18.9,
+    "url": "https://shopee.com.my/example-fake-1tb",
+    "reviews": [
+      "5 - barang baik fast delivery recommended seller",
+      "5 - good seller fast shipping item received",
+      "5 - barang sampai cepat puas hati recommended",
+      "5 - good quality fast delivery thanks seller",
+      "5 - item received in good condition fast shipping",
+      "5 - barang baik harga murah fast delivery",
+      "5 - good seller barang sampai cepat 5 stars",
+      "5 - fast delivery good packaging recommended"
+    ]
+  },
+  "genuine_mouse": {
+    "name": "Logitech M331 Silent Plus Wireless Mouse",
+    "price": 79.0,
+    "url": "https://shopee.com.my/example-logitech-m331",
+    "reviews": [
+      "5 - ori seal, click memang senyap, guna 2 minggu battery masih penuh. Ada gambar resit + box.",
+      "5 - compara dengan M170 lama, M331 lagi sedap grip. Delivery 2 hari ke Cheras, bubble wrap tebal.",
+      "4 - overall ok, silent click sesuai office. Cuma saiz agak kecil untuk tangan besar. Seller reply cepat.",
+      "5 - tested receiver 10m masih connect, tak lag. Harga RM79 masa 9.9, mall jual RM99.",
+      "4 - mouse ori, serial boleh check. Tolak 1 bintang sebab kotak kemek sikit tapi mouse ok."
+    ]
+  }
+}
