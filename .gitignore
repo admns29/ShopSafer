@@ -1,2 +1,4 @@
 .venv
 PLANS.md
+__pycache__/
+*.pyc
